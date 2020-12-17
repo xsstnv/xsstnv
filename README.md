@@ -1,16 +1,19 @@
-### Hi there 👋
+[![Gituhb](https://img.shields.io/github/followers/xsstnv?label=follow&style=social)](https://github.com/xsstnv)
+[![Twitter](https://img.shields.io/twitter/follow/xsstnv?label=follow&style=social)](https://twitter.com/xsstnv)
 
-<!--
-**xsstnv/xsstnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+* :cookie: Web developer
+* :shipit: Bug hunter
+* :unlock: Security researcher 
+* :pencil: Blog writer
+* :coffee: Occasional CTF Player
+* :mortar_board: Masters in Information Security 
+* :mortar_board: Bachelor in Software and Internet Technologies
 
-Here are some ideas to get you started:
+## What I do
+* Build flexible web apps
+* Break web apps, bypass security & WAF
+* Troubleshoot problems that I do not initially understand
+* [My blog](https://blog.websec.ws/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E42FFKG)
