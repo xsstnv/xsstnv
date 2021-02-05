@@ -15,5 +15,3 @@
 * Break web apps, bypass security & WAF
 * Troubleshoot problems that I do not initially understand
 * [My blog](https://blog.xsstnv.com/)
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E42FFKG)
