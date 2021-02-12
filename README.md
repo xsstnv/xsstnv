@@ -1,6 +1,8 @@
 [![Gituhb](https://img.shields.io/github/followers/xsstnv?label=follow&style=social)](https://github.com/xsstnv)
 [![Twitter](https://img.shields.io/twitter/follow/xsstnv?label=follow&style=social)](https://twitter.com/xsstnv)
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=xsstnv&show_icons=true&theme=radical" width="380">
+
 ## About me
 * :cookie: Web developer
 * :shipit: Bug hunter
