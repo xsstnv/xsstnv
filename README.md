@@ -16,6 +16,4 @@
 * Troubleshoot problems that I do not initially understand
 * [My blog](https://blog.xsstnv.com/)
 
----
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=xsstnv&show_icons=true&theme=radical" width="380">
+<img src="https://github-readme-stats.vercel.app/api?username=xsstnv&show_icons=true&theme=radical">
