@@ -11,9 +11,7 @@
 * :mortar_board: Bachelor in Software and Internet Technologies
 
 ## What I do
-* Build flexible web apps
-* Break web apps, bypass security & WAF
-* Troubleshoot problems that I do not initially understand
-* [My blog](https://blog.xsstnv.com/)
-
-<img src="https://github-readme-stats.vercel.app/api?username=xsstnv&show_icons=true&theme=radical">
+* I build web apps
+* I also break web apps
+* I solve problems that I do not initially understand
+* I sometimes write stuff in my [blog](https://blog.xsstnv.com/)
