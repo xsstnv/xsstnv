@@ -11,7 +11,8 @@
 * :mortar_board: Bachelor in Software and Internet Technologies
 
 ## What I do
-* I build web apps
-* I also break web apps
-* I solve problems that I do not initially understand
-* I sometimes write stuff in my [blog](https://blog.xsstnv.com/)
+* I work as a web developer, primarily with React
+* I do bug bounties as a hobby
+* [Pentest Playbook](https://github.com/xsstnv/pentest-playbook) is my most rated project
+* My [blog](https://blog.xsstnv.com/) about community challenges
+* My [CTF writeups](https://github.com/xsstnv/ctf-writeups)
