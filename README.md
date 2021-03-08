@@ -4,15 +4,16 @@
 ## About me
 * :cookie: Web developer
 * :shipit: Bug hunter
+* :goberserk: Challenger
 * :unlock: Security researcher 
-* :pencil: Blog writer
+* :pencil: Content creator
 * :coffee: Occasional CTF Player
 * :mortar_board: Masters in Information Security 
 * :mortar_board: Bachelor in Software and Internet Technologies
 
-## What I do
-* I work as a web developer, primarily with React
-* I do bug bounties as a hobby
-* [Pentest Playbook](https://github.com/xsstnv/pentest-playbook) is my most rated project
-* My [blog](https://blog.xsstnv.com/) about community challenges
-* My [CTF writeups](https://github.com/xsstnv/ctf-writeups)
+## Projects & Challenges
+* [Pentest Playbook](https://github.com/xsstnv/pentest-playbook)
+* [Community Challenges - Blog](https://blog.xsstnv.com/)
+* [CTF writeups](https://github.com/xsstnv/ctf-writeups)
+* [alert(1) to win](https://github.com/xsstnv/alf.nu)
+* [prompt(1) to win](https://github.com/xsstnv/prompt.ml)
