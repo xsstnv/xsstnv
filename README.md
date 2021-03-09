@@ -2,18 +2,19 @@
 [![Twitter](https://img.shields.io/twitter/follow/xsstnv?label=follow&style=social)](https://twitter.com/xsstnv)
 
 ## About me
-* :cookie: Web developer
-* :shipit: Bug hunter
-* :goberserk: Challenger
-* :unlock: Security researcher 
-* :pencil: Content creator
-* :coffee: Occasional CTF Player
-* :mortar_board: Masters in Information Security 
-* :mortar_board: Bachelor in Software and Internet Technologies
+- :cookie: Web developer
+- :shipit: Bug hunter
+- :goberserk: Challenger
+- :unlock: Security researcher 
+- :pencil: Content creator
+- :coffee: Occasional CTF Player
+- :mortar_board: Masters in Information Security 
+- :mortar_board: Bachelor in Software and Internet Technologies
 
 ## Projects & Challenges
-* [Pentest Playbook](https://github.com/xsstnv/pentest-playbook)
-* [Community Challenges - Blog](https://blog.xsstnv.com/)
-* [CTF writeups](https://github.com/xsstnv/ctf-writeups)
-* [alert(1) to win](https://github.com/xsstnv/escape.alf.nu)
-* [prompt(1) to win](https://github.com/xsstnv/prompt.ml)
+- [Pentest Playbook](https://github.com/xsstnv/pentest-playbook)
+- Community Challenges - [blog.xsstnv.com](https://blog.xsstnv.com/)
+- [CTF writeups](https://github.com/xsstnv/ctf-writeups)
+- Cross Site Scripting Challenges
+  - [alert(1) to win](https://github.com/xsstnv/escape.alf.nu)
+  - [prompt(1) to win](https://github.com/xsstnv/prompt.ml)
