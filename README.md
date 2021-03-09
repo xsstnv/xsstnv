@@ -15,5 +15,5 @@
 * [Pentest Playbook](https://github.com/xsstnv/pentest-playbook)
 * [Community Challenges - Blog](https://blog.xsstnv.com/)
 * [CTF writeups](https://github.com/xsstnv/ctf-writeups)
-* [alert(1) to win](https://github.com/xsstnv/alf.nu)
+* [alert(1) to win](https://github.com/xsstnv/escape.alf.nu)
 * [prompt(1) to win](https://github.com/xsstnv/prompt.ml)
