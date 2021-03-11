@@ -12,7 +12,7 @@
 - :mortar_board: Bachelor in Software and Internet Technologies
 
 ## Projects & Challenges
-- [Pentest Playbook](https://github.com/xsstnv/pentest-playbook)
+- [Pentest Playbook](https://github.com/xsstnv/pentest-playbook) ⭐
 - Community Challenges
   - [blog.xsstnv.com](https://blog.xsstnv.com/)
 - CTF events  
