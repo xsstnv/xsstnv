@@ -13,8 +13,10 @@
 
 ## Projects & Challenges
 - [Pentest Playbook](https://github.com/xsstnv/pentest-playbook)
-- Community Challenges - [blog.xsstnv.com](https://blog.xsstnv.com/)
-- [CTF writeups](https://github.com/xsstnv/ctf-writeups)
+- Community Challenges
+  - [blog.xsstnv.com](https://blog.xsstnv.com/)
+- CTF events  
+  - [writeups](https://github.com/xsstnv/ctf-writeups)
 - Cross Site Scripting Challenges
   - [alert(1) to win](https://github.com/xsstnv/escape.alf.nu)
   - [prompt(1) to win](https://github.com/xsstnv/prompt.ml)
