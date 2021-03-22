@@ -15,7 +15,8 @@
 - ⭐ [Pentest Playbook](https://github.com/xsstnv/pentest-playbook)
 - Community Challenges
   - [blog.xsstnv.com](https://blog.xsstnv.com/)
-- CTF events  
+- CTF (Capture The Flag)
+  - [CTFTime](https://ctftime.org/user/104260)
   - [writeups](https://github.com/xsstnv/ctf-writeups)
 - Cross Site Scripting Challenges
   - [alert(1) to win](https://github.com/xsstnv/escape.alf.nu)
