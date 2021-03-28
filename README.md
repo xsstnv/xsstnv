@@ -13,8 +13,9 @@
 
 ## Projects & Challenges
 - ⭐ [Pentest Playbook](https://github.com/xsstnv/pentest-playbook)
-- Community Challenges
-  - [blog.xsstnv.com](https://blog.xsstnv.com/)
+- Websites
+  - [stnv.dev](https://stnv.dev/)
+  - [blog.stnv.dev](https://blog.stnv.dev/)
 - CTF (Capture The Flag)
   - [CTFTime](https://ctftime.org/user/104260)
   - [writeups](https://github.com/xsstnv/ctf-writeups)
