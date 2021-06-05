@@ -1,4 +1,4 @@
-[![Gituhb](https://img.shields.io/github/followers/xsstnv?label=follow&style=social)](https://github.com/xsstnv)
+[![Gituhb](https://img.shields.io/github/followers/stnv?label=follow&style=social)](https://github.com/stnv)
 [![Twitter](https://img.shields.io/twitter/follow/xsstnv?label=follow&style=social)](https://twitter.com/xsstnv)
 
 ## About me
