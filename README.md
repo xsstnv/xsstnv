@@ -1,5 +1,5 @@
 [![Gituhb](https://img.shields.io/github/followers/stnv?label=follow&style=social)](https://github.com/stnv)
-[![Twitter](https://img.shields.io/twitter/follow/xsstnv?label=follow&style=social)](https://twitter.com/xsstnv)
+[![Twitter](https://img.shields.io/twitter/follow/1stnv?label=follow&style=social)](https://twitter.com/1stnv)
 
 ## About me
 - :cookie: Web developer
